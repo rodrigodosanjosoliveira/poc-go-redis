@@ -1,1 +1,1 @@
-# poc-go-redis
+# poc-go-redis-docker
